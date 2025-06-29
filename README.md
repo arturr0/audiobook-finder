@@ -1,6 +1,6 @@
 # Historical Polish Audiobook Finder
 
-![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+<!--![Node.js](https://img.shields.io/badge/Node.js-18.x-green)-->
 ![Status](https://img.shields.io/badge/Status-Development-brightgreen)
 
 A Node.js web scraping tool that searches for audiobook versions of historical Polish books listed in the Polona digital library.
