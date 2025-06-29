@@ -10,12 +10,6 @@ A Node.js web scraping tool that searches for audiobook versions of historical P
 - [Overview](#overview)
 - [Features](#features)
 - [Technical Stack](#technical-stack) 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Error Handling](#error-handling)
-- [Legal Notice](#legal-notice)
-- [License](#license)
 
 ## Overview
 
@@ -59,9 +53,4 @@ This project automates the process of:
 | CSV Parsing | csv-parse |
 | Audio Alerts | audio-play |
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/audiobook-finder.git
-cd audiobook-finder
