@@ -38,12 +38,12 @@
 | Audio Alerts    | audio-play |
 
 ### 📝 Notes  
-```mermaid
-graph TD
-    A[Polona.pl API] -->|Get Book Metadata| B(Search Gov Portals)
-    B --> C{Found Audiobooks?}
-    C -->|Yes| D[Verify Match]
-    C -->|No| E[Log as Unavailable]
-    D --> F[Store Results]
+- 1. **Data Ingestion**:  
+ Fetches metadata of public domain Polish works from:  
+   [![Polona.pl](https://img.shields.io/badge/Polona.pl-API-blue)](https://polona.pl)  
+
+2. **Audiobook Discovery**:
+ 
+- Automatically searches Polish government portals for: Audiobook versions matching Polona metadata  
 - Scrapes government sites for audiobook versions  
 - Handles rate limiting gracefully  
