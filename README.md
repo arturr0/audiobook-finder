@@ -38,9 +38,7 @@
 | Audio Alerts    | audio-play |
 
 ### 📝 Notes  
-1. **Data Ingestion**:  
- Fetches metadata of public domain Polish works from 
-2. **Audiobook Discovery**:
-- Automatically searches Polish government portals for: Audiobook versions matching Polona metadata  
+**Data Ingestion**:  
+ -Fetches metadata of public domain Polish works from Polona API
 - Scrapes government sites for audiobook versions  
 - Handles rate limiting gracefully  
