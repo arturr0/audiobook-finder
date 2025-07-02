@@ -38,12 +38,9 @@
 | Audio Alerts    | audio-play |
 
 ### 📝 Notes  
-- 1. **Data Ingestion**:  
- Fetches metadata of public domain Polish works from:  
-   [![Polona.pl](https://img.shields.io/badge/Polona.pl-API-blue)](https://polona.pl)  
-
+1. **Data Ingestion**:  
+ Fetches metadata of public domain Polish works from [![Polona.pl](https://img.shields.io/badge/Polona.pl-API-blue)](https://polona.pl)  
 2. **Audiobook Discovery**:
- 
-- Automatically searches Polish government portals for: Audiobook versions matching Polona metadata  
+ - Automatically searches Polish government portals for: Audiobook versions matching Polona metadata  
 - Scrapes government sites for audiobook versions  
 - Handles rate limiting gracefully  
