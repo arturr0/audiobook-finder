@@ -2,8 +2,7 @@
 **Status: Development**  
 ![Tech](https://img.shields.io/badge/-Node.js-339933) ![Tech](https://img.shields.io/badge/-Puppeteer-40B5A4) ![Tech](https://img.shields.io/badge/-Axios-5A29E4)  
 
-🖼️ **Preview**:  
-![App Preview](https://cdn.glitch.global/5ac0b5d5-9cdf-4f57-b49d-3e7a215b66a4/logs.png)  
+ ![App Preview](https://cdn.glitch.global/79283f6f-ef1e-4285-822b-eaefe68c462e/5.png?v=1751443834188)  
 
 ### ✨ Features  
 
