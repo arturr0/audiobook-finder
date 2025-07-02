@@ -38,6 +38,6 @@
 
 ### 📝 Notes  
 **Data Ingestion**:  
-- Fetches metadata of public domain Polish works from Polona API  
+- Fetches metadata of public domain Polish works from [Polona API](https://polona.pl/static/polona/search-api)  
 - Scrapes government sites for audiobook versions  
 - Handles rate limiting gracefully  
