@@ -38,7 +38,7 @@
 | Audio Alerts    | audio-play |
 
 ### 📝 Notes  
-- ```mermaid
+```mermaid
 graph TD
     A[Polona.pl API] -->|Get Book Metadata| B(Search Gov Portals)
     B --> C{Found Audiobooks?}
