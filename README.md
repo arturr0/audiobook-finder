@@ -27,9 +27,9 @@
 ### 🛠️ Technical Stack  
 | Component         | Technology                          |
 |-------------------|-------------------------------------|
-| Runtime          | Node.js ![Node.js](https://img.shields.io/badge/-Node.js-339933) |
-| Scraping        | Puppeteer + Cheerio ![Puppeteer](https://img.shields.io/badge/-Puppeteer-40B5A4) |
-| HTTP Client     | Axios ![Axios](https://img.shields.io/badge/-Axios-5A29E4) |
+| Runtime          | Node.js |
+| Scraping        | Puppeteer + Cheerio |
+| HTTP Client     | Axios |
 | PDF Parsing     | pdf-parse |
 | Excel Parsing   | xlsx |
 | Word Parsing    | mammoth |
